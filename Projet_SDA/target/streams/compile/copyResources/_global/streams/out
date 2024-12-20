@@ -1,0 +1,10 @@
+[debug] Copy resource mappings: 
+[debug] 	(C:\Users\daora\IdeaProjects\Projet_SDA\src\main\resources\data.json,C:\Users\daora\IdeaProjects\Projet_SDA\target\scala-2.12\classes\data.json)
+[debug] 	(C:\Users\daora\IdeaProjects\Projet_SDA\src\main\resources\fichier.csv,C:\Users\daora\IdeaProjects\Projet_SDA\target\scala-2.12\classes\fichier.csv)
+[debug] 	(C:\Users\daora\IdeaProjects\Projet_SDA\src\main\resources\fichier1.csv,C:\Users\daora\IdeaProjects\Projet_SDA\target\scala-2.12\classes\fichier1.csv)
+[debug] 	(C:\Users\daora\IdeaProjects\Projet_SDA\src\main\resources\Configuration\reader_csv.json,C:\Users\daora\IdeaProjects\Projet_SDA\target\scala-2.12\classes\Configuration\reader_csv.json)
+[debug] 	(C:\Users\daora\IdeaProjects\Projet_SDA\src\main\resources\Configuration\reader_json.json,C:\Users\daora\IdeaProjects\Projet_SDA\target\scala-2.12\classes\Configuration\reader_json.json)
+[debug] 	(C:\Users\daora\IdeaProjects\Projet_SDA\src\main\resources\Configuration\reader_xml.json,C:\Users\daora\IdeaProjects\Projet_SDA\target\scala-2.12\classes\Configuration\reader_xml.json)
+[debug] 	(C:\Users\daora\IdeaProjects\Projet_SDA\src\main\resources\DataforTest\data.csv,C:\Users\daora\IdeaProjects\Projet_SDA\target\scala-2.12\classes\DataforTest\data.csv)
+[debug] 	(C:\Users\daora\IdeaProjects\Projet_SDA\src\main\resources\DataforTest\data.json,C:\Users\daora\IdeaProjects\Projet_SDA\target\scala-2.12\classes\DataforTest\data.json)
+[debug] 	(C:\Users\daora\IdeaProjects\Projet_SDA\src\main\resources\DataforTest\data.xml,C:\Users\daora\IdeaProjects\Projet_SDA\target\scala-2.12\classes\DataforTest\data.xml)
