@@ -9,7 +9,7 @@ object Myfirstapplication{
 
     val spark = SparkSession.builder.appName("SimpleApplication")
       .config("spark.master", "local")
-      .getOrCreate()git
+      .getOrCreate()
 
     val df = spark.read
       .format("csv")
