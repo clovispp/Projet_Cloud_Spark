@@ -1,0 +1,12 @@
+[debug] > Exec(package, None, None)
+[debug] Evaluating tasks: Compile / package
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 10 Scala sources to C:\Users\daora\IdeaProjects\Projet_SDA\target\scala-2.12\classes ...
+[info] downloading https://repo1.maven.org/maven2/org/scala-sbt/compiler-bridge_2.12/1.9.6/compiler-bridge_2.12-1.9.6-sources.jar
+[info] downloaded https://repo1.maven.org/maven2/org/scala-sbt/compiler-bridge_2.12/1.9.6/compiler-bridge_2.12-1.9.6-sources.jar
+[info] Non-compiled module 'compiler-bridge_2.12' for Scala 2.12.15. Compiling...
+[info]   Compilation completed in 13.716s.
+[info] done compiling
+[warn] multiple main classes detected: run 'show discoveredMainClasses' to see the list
+[success] Total time: 23 s, completed 18 déc. 2024 18:49:30
+[debug] > Exec(idea-shell, None, None)

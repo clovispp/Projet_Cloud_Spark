@@ -1,0 +1,28 @@
+[debug] Created transactional ClassFileManager with tempDir = C:\Users\daora\IdeaProjects\Projet_SDA\target\scala-2.12\classes.bak
+[debug] About to delete class files:
+[debug] We backup class files:
+[debug] Created transactional ClassFileManager with tempDir = C:\Users\daora\IdeaProjects\Projet_SDA\target\scala-2.12\classes.bak
+[debug] About to delete class files:
+[debug] We backup class files:
+[debug] Registering generated classes:
+[debug] 	JsonReader.class
+[debug] 	XmlReader.class
+[debug] 	ServiceVente.class
+[debug] 	Args$.class
+[debug] 	MainBatch.class
+[debug] 	ConfigurationParser$.class
+[debug] 	Args.class
+[debug] 	Myfirstapplication$.class
+[debug] 	ServiceVente$DataFrameUtils.class
+[debug] 	FileReaderUsingIOSource.class
+[debug] 	MainBatch$.class
+[debug] 	Reader.class
+[debug] 	Myfirstapplication.class
+[debug] 	CsvReader$.class
+[debug] 	XmlReader$.class
+[debug] 	ServiceVente$.class
+[debug] 	ConfigurationParser.class
+[debug] 	FileReaderUsingIOSource$.class
+[debug] 	JsonReader$.class
+[debug] 	CsvReader.class
+[debug] Removing the temporary directory used for backing up class files: C:\Users\daora\IdeaProjects\Projet_SDA\target\scala-2.12\classes.bak
