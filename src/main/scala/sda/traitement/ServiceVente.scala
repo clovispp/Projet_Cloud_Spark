@@ -39,14 +39,14 @@ object ServiceVente {
         .withColumn("Ville", col("MetaData.MetaTransaction").getItem(0).getField("Ville"))
         .withColumn("Date_End_contrat", col("MetaData.MetaTransaction").getItem(0).getField("Date_End_contrat"))
         .withColumn("Date_End_contrat", regexp_extract(col("Date_End_contrat"), date_regex_expression, 0))
-        .drop("MetaData", "HTT_TVA")
+        .drop("MetaData")
       new_dataframe
     }
 
     def contratStatus(): DataFrame = {
       val currentDate = LocalDate.now().toString
       val contrat_status = dataFrame
-        .withColumn("Contrat_Status", when(col("Date_End_contrat") < lit(currentDate), "Expire").otherwise("Active"))
+        .withColumn("Contrat_Status", when(col("Date_End_contrat") < lit(currentDate), "Expired").otherwise("Active"))
 
       contrat_status
     }
